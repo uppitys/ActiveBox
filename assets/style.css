@@ -451,7 +451,7 @@ p {
 .burger__item {
     display: block;
     width: 30px;
-    height: 3px;
+    height: 2px;
 
     background-color: #fff;
 
@@ -521,13 +521,13 @@ p {
 
     .reviews__photo {
         width: 100%;
-        margin: 15px 0 40px;
         overflow: hidden;
+        margin-bottom: 40px;
     }
 
     .reviews__content {
         width: 100%;
-        padding-left: 0;
+        padding-left: 15px;
         padding-bottom: 40px;
     }
 }
